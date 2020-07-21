@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Part2_Mission1</string>
+    <string name="title">
+        This is title.
+    </string>
+    <string name="content">
+        Manage all of your conversations in one place and use stickers and chat heads.
+    </string>
+    <string name="button">OK</string>
+    <string name="setting">Setting</string>
+
+</resources>

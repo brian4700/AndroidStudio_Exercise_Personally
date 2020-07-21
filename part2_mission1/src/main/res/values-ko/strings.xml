@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Part2_Mission1</string>
+    <string name = "title">
+        이건 제목임
+    </string>
+    <string name = "content">
+        모든 대화를 한곳에서 관리하고
+    </string>
+    <string name = "button">확인</string>
+    <string name = "setting">설정</string>
+
+</resources>
