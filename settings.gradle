@@ -1,3 +1,4 @@
+include ':part4_12'
 include ':part4_11'
 include ':part4_10'
 include ':part3_mission'
